@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 #d4 = "0.1.13"
 d4 = { git = "https://github.com/cademirch/d4-format.git" }
-pyo3 = "0.12.1"
+pyo3 = "0.15.0"
 rayon = "1.4.0"
 
 [lib]
